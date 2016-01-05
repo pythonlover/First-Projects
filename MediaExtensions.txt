@@ -1,0 +1,19 @@
+Media(for songs so video and audio) Extensions
+
+.mp3
+.wav
+.flv
+.wma
+.m4a
+.webm
+.ogg
+.dat
+.avi
+.aac
+.mkv
+.mpg
+.3gv
+.wmv
+.mp4
+.aif
+.amr
